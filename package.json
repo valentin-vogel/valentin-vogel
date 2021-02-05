@@ -1,0 +1,30 @@
+{
+  "name": "valentin-vogel",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your Github profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentin-vogel/valentin-vogel.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic"
+  ],
+  "author": "Valentin Vogel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentin-vogel/valentin-vogel/issues"
+  },
+  "homepage": "https://github.com/valentin-vogel/valentin-vogel#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.1.0",
+    "rss-parser": "^3.11.0"
+  }
+}
