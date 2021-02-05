@@ -66,4 +66,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Friday, February 5, 4:11 AM GMT+1</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Friday, 5 February, 04:28 CET</p>
