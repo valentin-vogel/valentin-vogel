@@ -14,6 +14,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Bit" src="https://img.shields.io/badge/-Bit-73398D?style=flat-square&logo=bit&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -73,4 +74,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Monday, 15 February, 02:44 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Monday, 15 February, 17:09 CET</p>
