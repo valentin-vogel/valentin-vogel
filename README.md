@@ -52,11 +52,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/estimate?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/valentin-vogel/vvo-monitor"><b>VVO Monitor</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/vvo-monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/valentin-vogel/vvo-monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/valentin-vogel/vvo-monitor?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/vvo-monitor?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/valentin-vogel/dvb-departure-board"><b>DVB Departure Board</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -74,4 +74,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Saturday, 27 February, 02:46 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Sunday, 28 February, 20:21 CET</p>
