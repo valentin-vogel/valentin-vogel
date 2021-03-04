@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>My name is Valentin Vogel and I'm a master student at HTW-Dresden majoring in Computer Science. I'm working as a Digital Solutions Architect with a focus on NoCode, Serverless, APIs, Jamstacks and other Web Development.</p>
+<p>My name is Valentin Vogel and I'm a master student at HTW-Dresden majoring in Computer Science. I'm working as a Developer Advocate and Digital Solutions Architect with focus on NoCode, Serverless, APIs, Jamstacks and other Web Development.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -74,4 +74,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Wednesday, 3 March, 02:48 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Thursday, 4 March, 16:48 CET</p>
