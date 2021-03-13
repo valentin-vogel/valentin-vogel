@@ -44,13 +44,6 @@
     </tr>
   </thead>
   <tbody>
-	  <tr>
-      <td><a href="https://github.com/valentin-vogel/awesome-nocode-lowcode"><b>Awesome Nocode / Lowcode</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/awesome-nocode-lowcode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/valentin-vogel/awesome-nocode-lowcode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/valentin-vogel/awesome-nocode-lowcode?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/awesome-nocode-lowcode?style=flat-square&labelColor=343b41"/></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/valentin-vogel/estimate"><b>Estimate</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/estimate?style=flat-square&labelColor=343b41"/></td>
@@ -81,4 +74,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Thursday, 11 March, 02:52 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 24 hours</b>!</br>Last refresh: Saturday, 13 March, 01:32 CET</p>
