@@ -25,6 +25,6 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "mustache": "^4.1.0",
-    "rss-parser": "^3.11.0"
+    "rss-parser": "^3.12.0"
   }
 }
