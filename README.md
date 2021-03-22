@@ -70,7 +70,7 @@
 
 <h3>Some of my latest medium posts</h3>
 <ul>
-  <li><a href="https://medium.com/@valentinvogel/4-reasons-for-tailwindcss-3b8f7a2bf264"><b>4 Reasons for Tailwindcss</b></a></li>
+  <li><a href="https://valentinvogel.medium.com/4-reasons-for-tailwindcss-3b8f7a2bf264"><b>4 Reasons for Tailwindcss</b></a></li>
 </ul>
 
 <h3>Where to find me</h3>
@@ -81,4 +81,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Monday, 15 March, 02:45 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Monday, 22 March, 02:50 CET</p>
