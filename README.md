@@ -6,6 +6,7 @@
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img alt="Jamstack" src="https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -81,4 +82,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Monday, 29 March, 03:27 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Wednesday, 31 March, 11:49 CEST</p>
