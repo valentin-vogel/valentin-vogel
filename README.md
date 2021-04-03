@@ -53,6 +53,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/awesome-nocode-lowcode?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/valentin-vogel/svelte-babel-tailwindcss"><b>Svelte Babel Tailwindcss Template</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/svelte-babel-tailwindcss?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/valentin-vogel/svelte-babel-tailwindcss?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/valentin-vogel/svelte-babel-tailwindcss?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/valentin-vogel/svelte-babel-tailwindcss?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/valentin-vogel/estimate"><b>Estimate</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/valentin-vogel/estimate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/valentin-vogel/estimate?style=flat-square&labelColor=343b41"/></td>
@@ -82,4 +89,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Thursday, 1 April, 03:28 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Saturday, 3 April, 18:05 CEST</p>
