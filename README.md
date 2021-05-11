@@ -34,7 +34,6 @@
 </p>
 
 <h3>Open source projects</h3>
-
 <table>
   <thead>
     <tr border: none;>
@@ -90,4 +89,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Saturday, 8 May, 04:03 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Tuesday, 11 May, 15:43 CEST</p>
