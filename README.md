@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>My name is Valentin Vogel and I'm working as Software Engineer DevOps / IoT in Dresden, Germany.</p>
+<p>My name is Valentin Vogel and I'm working as Software Engineer DevOps / IoT in Dresden, Germany and freelancing on web development and lowcode.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -27,6 +27,12 @@
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="Serverless Framework" src="https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
+</p>
+
+<h3>Nocode / Lowcode</h3>
+<p>
+  <img alt="Zapier" src="https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img alt="Airtable" src="https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
@@ -85,4 +91,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Wednesday, 15 September, 10:46 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 7 days</b>!</br>Last refresh: Wednesday, 15 September, 12:13 CEST</p>
