@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/valentin-vogel/valentin-vogel#readme",
   "dependencies": {
-    "dotenv": "^9.0.1",
+    "dotenv": "^16.0.0",
     "mustache": "^4.2.0",
     "rss-parser": "^3.12.0"
   }
