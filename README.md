@@ -2,7 +2,7 @@
 
 My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love working with cloud and creating better development environments. 
 
-## Things I code with
+### Things I code with
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Jamstack](https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white)
