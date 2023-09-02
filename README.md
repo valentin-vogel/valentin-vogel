@@ -37,6 +37,8 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany.
 ![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Grafana, Loki & Tempo](https://img.shields.io/badge/-Grafana%20%2F%20Loki%20%2F%20Tempo-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Instatus](https://img.shields.io/badge/-Instatus-4EE3C2?style=for-the-badge&logo=instatus&logoColor=white)
+![New Relic](https://img.shields.io/badge/-New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 
 ### Nocode / Lowcode
 
