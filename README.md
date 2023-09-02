@@ -4,7 +4,10 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love workin
 
 ### Things I code with
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Nx](https://img.shields.io/badge/-Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Jamstack](https://img.shields.io/badge/-Jamstack-F0047F?style=for-the-badge&logo=jamstack&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
