@@ -16,7 +16,7 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love workin
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
-## Infrastructure, Cloud and IaC
+### Infrastructure, Cloud and IaC
 
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,13 +27,13 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love workin
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
-## Nocode / Lowcode
+### Nocode / Lowcode
 
 ![Retool](https://img.shields.io/badge/-Retool-3D3D3D?style=for-the-badge&logo=retool&logoColor=white)
 ![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![Airtable](https://img.shields.io/badge/-Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white)
 
-## Open source projects
+### Open source projects
 
 |Projects|Stars|Forks|Issues|Pull requests|
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love workin
 |[Estimate](https://github.com/valentin-vogel/estimate)|![](https://img.shields.io/github/stars/valentin-vogel/estimate?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/forks/valentin-vogel/estimate?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/issues/valentin-vogel/estimate?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/issues-pr/valentin-vogel/estimate?style=flat-square&labelColor=343b41)|
 |[DVB Departure Board](https://github.com/valentin-vogel/dvb-departure-board)|![](https://img.shields.io/github/stars/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/forks/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/issues/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41)|![](https://img.shields.io/github/issues-pr/valentin-vogel/dvb-departure-board?style=flat-square&labelColor=343b41)|
 
-## Where to find me
+### Where to find me
 
 [![Github](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/valentin-vogel)
 [![Xing](https://img.shields.io/badge/Xing-006567?&style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Valentin_Vogel14)
