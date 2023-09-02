@@ -28,7 +28,7 @@ My name is Valentin Vogel a DevOps Engineer from Dresden, Germany. I love workin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
+![Gitlab](https://img.shields.io/badge/-Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Nocode / Lowcode
 
